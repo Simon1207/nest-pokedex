@@ -19,6 +19,11 @@ npm i -g @nestjs/cli
 docker-compose up -d
 ```
 
+Para ejecutar en modo dev desde yarn ejecutar:
+```
+yarn start:dev
+```
+
 
 ## Stack usado
 * MongoDB
